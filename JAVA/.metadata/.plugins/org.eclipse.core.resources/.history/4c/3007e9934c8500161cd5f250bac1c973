@@ -1,0 +1,11 @@
+package clients;
+
+import java.net.URL;
+
+public class InternetFile {
+
+	public static void main(String[] args) {
+		URL url = new URL("http://www.jlab.org");
+	}
+
+}

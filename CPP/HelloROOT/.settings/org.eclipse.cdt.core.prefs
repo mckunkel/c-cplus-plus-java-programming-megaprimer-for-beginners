@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/DYLD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/DYLD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/DYLD_LIBRARY_PATH/value=$ROOTSYS/lib
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/LD_LIBRARY_PATH/value=/Users/michaelkunkel/root/lib
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/ROOTSYS/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/ROOTSYS/operation=append
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/ROOTSYS/value=/Users/michaelkunkel/root
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/append=true
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.1559325021/appendContributed=true

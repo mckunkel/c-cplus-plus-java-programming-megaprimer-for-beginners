@@ -12,6 +12,7 @@ public:
 	double len;
 	double wid;
 	double hei;
+	double nothing;
 
 	double getVolume(void);
 	void setLength(double lenA);

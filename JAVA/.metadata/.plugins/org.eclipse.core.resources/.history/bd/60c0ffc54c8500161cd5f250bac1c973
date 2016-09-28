@@ -1,0 +1,28 @@
+package clients;
+
+import java.io.BufferedInputStream;
+import java.io.InputStream;
+import java.net.URL;
+
+public class InternetFile {
+
+	public static void main(String[] args) {
+		URL url = new URL("http://www.jlab.org");
+		InputStream var = url.openStream();
+		BufferedInputStream some = new BufferedInputStream(var);
+
+		StringBuilder sb = new StringBuilder();
+
+		while (true) {
+			int value = some.read();
+			if (value == -1) {
+				break;
+			} else {
+				sb.append((char) value);
+			}
+		}
+		System.out.println(sb);
+
+	}
+
+}

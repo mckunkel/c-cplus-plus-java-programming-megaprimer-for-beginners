@@ -1,0 +1,9 @@
+package clients;
+
+public class TakeInput {
+
+	public static void main(String[] args) {
+InputStreamReader cin = null;
+	}
+
+}
